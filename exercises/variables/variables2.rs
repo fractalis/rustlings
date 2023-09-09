@@ -3,6 +3,7 @@
 // Execute `rustlings hint variables2` or use the `hint` watch subcommand for a
 // hint.
 
+
 fn main() {
     let x: u32 = 10;
     if x == 10 {
